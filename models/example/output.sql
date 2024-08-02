@@ -1,0 +1,1 @@
+create table vinod(ID int,name varchar(100))
